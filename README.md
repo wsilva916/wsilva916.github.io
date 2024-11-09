@@ -1,7 +1,7 @@
 # <font color=blue>Data Science and Analytics Portfolio</font>
 ### <font color=gray>Warren Silva</font>
-Data Professional in Sacramento, CA
-[Visit my LinkedIn Profile](https://www.linkedin.com/in/warren-silva/)
+#### Data Professional in Sacramento, CA
+#### [Visit my LinkedIn Profile](https://www.linkedin.com/in/warren-silva/)
 
 # Projects
 
