@@ -12,3 +12,6 @@
 [Data Generator for A/B Testing](https://nbviewer.org/github/wsilva916/wsilva916.github.io/blob/main/ab_generator.ipynb)
 - Used to generate sample data for project above
 - Includes various parameters to control the characteristics of generated data
+
+
+[Tableau Dashboard - Airline Reviews](https://public.tableau.com/views/BritishAirwaysReviews_17266156042500/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
