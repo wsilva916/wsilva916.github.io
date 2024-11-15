@@ -15,3 +15,4 @@
 
 
 [Tableau Dashboard - Airline Reviews](https://public.tableau.com/views/BritishAirwaysReviews_17266156042500/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- Interactive Selection of various filters as well as selective focus on several different metrics
