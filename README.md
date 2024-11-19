@@ -1,9 +1,6 @@
-# **Data Science and Analytics Portfolio**  
-
-<div style="background-color:#016FD0; padding:10px; border-radius:5px; color:white; font-size:20px;">
+<div style="background-color:#016FD0; padding:10px; border-radius:5px; color:white; font-size:30px;">
 <strong>Data Science and Analytics Portfolio</strong>
 </div>
-
 ### *Warren Silva | Sacramento, CA* | [LinkedIn Profile](https://www.linkedin.com/in/warren-silva/)
 
 ---
