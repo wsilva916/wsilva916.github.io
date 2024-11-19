@@ -1,9 +1,13 @@
-<div style="background-color:#016FD0; padding:20px; border-radius:5px; color:white; font-size:36px;">
+<div style="background-color:#103783; padding:20px; border-radius:5px; color:white; font-size:36px;">
 <strong>Data Science and Analytics Portfolio</strong>
 </div>
 ### *Warren Silva | Sacramento, CA* | [LinkedIn Profile](https://www.linkedin.com/in/warren-silva/)
 
 ---
+
+<div style="background-color:#9BAFD9; padding:10px; border-radius:5px; color:white; font-size:24px;">
+<strong>Python Projects</strong>
+</div>
 
 ## **Python Projects**
 
