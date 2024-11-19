@@ -9,8 +9,6 @@
 <strong>Python Projects</strong>
 </div>
 
-## **Python Projects**
-
 ### [A/B Test for Retail Website Promotion Groups](https://nbviewer.org/github/wsilva916/wsilva916.github.io/blob/main/retail_site_ab_test.ipynb)
 
 - Comparison of two groups offered different promotions
@@ -23,7 +21,10 @@
 - Used to generate sample data for project above
 - Includes various parameters to control the characteristics of generated data
 
-## **Visualization Projects**
+<div style="background-color:#9BAFD9; padding:10px; border-radius:5px; color:white; font-size:24px;">
+<strong>Visualization Projects</strong>
+</div>
+
 ### [Tableau Dashboard - Airline Reviews](https://public.tableau.com/views/BritishAirwaysReviews_17266156042500/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - Interactive dashboard featuring:
   - Multiple filters for user-driven insights
