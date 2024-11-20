@@ -1,5 +1,5 @@
 <div style="background-color:#103783; padding:20px; border-radius:5px; color:white; font-size:36px;">
-<strong>Data Science and Analytics Portfolio</strong>
+<strong>Data Science and Analytics Work Samples</strong>
 </div>
 ### *Warren Silva | Sacramento, CA* | [LinkedIn Profile](https://www.linkedin.com/in/warren-silva/)
 
