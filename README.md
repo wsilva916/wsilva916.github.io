@@ -10,16 +10,19 @@
 </div>
 
 ### [A/B Test for Retail Website Promotion Groups](https://nbviewer.org/github/wsilva916/wsilva916.github.io/blob/main/retail_site_ab_test.ipynb)
-- Analyzes two groups of site visitors offered different promotions, to determine the impact on:
-  - Likelihood of making a purchase
-  - Average spend when a purchase is made   
-- Many important factors and decision points are assessed programmatically, including:
+
+- This analysis evaluates two groups of site visitors offered different promotions to assess their impact on:
+  - The likelihood of making a purchase
+  - The average spend when a purchase is made   
+
+- Key factors and decision points are assessed programmatically, including:
+  
   - Classification of the target variable as **binary** or **continuous**
-    - For binary target variables, the size of the sample(s) determines the most appropriate independence test, between **Chi-Square test** or **Fisher's Exact Test**    
-  - For continuous target variables, there are several decision points:
-    - The size of the sample(s) is used to determine the most appropriate normality test, between **Shapiro-Wilk** or **Kolmogorov-Smirnov**
-    - Normality test results are used to determine if **Levene's Homogeneity of Variance Test** is needed
-    - The appropriate group difference test is determined by the combination of the normality test and variance test (where applicable), and could be a **Two-Sample T-Test**, **Welch's T-Test**, or the **Mann-Whitney U Test**
+    - For binary target variables, the sample size determines the most appropriate test of independence, choosing between the **Chi-Square Test** or **Fisher's Exact Test**    
+    - For continuous target variables, there are several decision points:
+      - The sample size determines the most appropriate normality test, between **Shapiro-Wilk Test** or **Kolmogorov-Smirnov Test**
+      - Normality test results determine if **Levene's Homogeneity of Variance Test** is needed
+      - The appropriate test for group differences—such as a **Two-Sample T-Test**, **Welch's T-Test**, or the **Mann-Whitney U Test**—is selected based on the combination of normality and variance test results (where applicable)
 
 ### [Data Generator for A/B Testing](https://nbviewer.org/github/wsilva916/wsilva916.github.io/blob/main/ab_generator.ipynb)
 - Used to generate sample data for project above
