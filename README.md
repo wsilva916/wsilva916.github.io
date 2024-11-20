@@ -10,12 +10,16 @@
 </div>
 
 ### [A/B Test for Retail Website Promotion Groups](https://nbviewer.org/github/wsilva916/wsilva916.github.io/blob/main/retail_site_ab_test.ipynb)
-
-- Comparison of two groups offered different promotions
-- Conditional handling to apply the most appropriate:
-  - Independence test for **binary target variables**
-  - Normality test for **continuous target variables**
-    - **Parametric** or **non-parametric independence test** for continuous target variables, based on normality test result
+- Analyzes two groups of site visitors offered different promotions, to determine the impact on:
+  - Likelihood of making a purchase
+  - Average spend when a purchase is made   
+- Many important factors and decision points for A/B testing are done programmatically. including:
+  - Classification of target variable as **binary** or **continuous**
+    - For binar* target variables, record count is used to select the most appropriate independence test, between **Chi-Square test** or **Fisher's Exact Test**    
+  - For continuous target variables, there are several decision points:
+    - Record count is used to determine the most appropriate normality test, between **Shapiro-Wilk** or **Kolmogorov-Smirnov**
+    - Normality test result is used to determine if **Levene's Homogeneity of Variance Test** is needed
+      - The appropriate group difference test is determined by the combination of the normality test and variance test (where applicable), and could be a **Two-Sample T-Test**, **Welch's T-Test**, or the **Mann-Whitney U Test**
 
 ### [Data Generator for A/B Testing](https://nbviewer.org/github/wsilva916/wsilva916.github.io/blob/main/ab_generator.ipynb)
 - Used to generate sample data for project above
