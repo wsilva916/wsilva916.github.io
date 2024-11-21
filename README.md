@@ -9,6 +9,8 @@
 <strong>Python Projects</strong>
 </div>
 
+The Python projects below are presented in Jupyter Notebooks and rendered using [nbviewer](https://nbviewer.org/). Each project includes supporting text, images, and code to help both technical and non-technical viewers understand the program logic and analysis.
+
 ### [A/B Test for Retail Website Promotion Groups](https://nbviewer.org/github/wsilva916/wsilva916.github.io/blob/main/retail_site_ab_test.ipynb)
 
 - This analysis evaluates two groups of site visitors offered different promotions to assess their impact on:
