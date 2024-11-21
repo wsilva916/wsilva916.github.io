@@ -38,3 +38,11 @@ The Python projects below are presented in Jupyter Notebooks and rendered using 
 - Interactive dashboard featuring:
   - Multiple filters for user-driven insights
   - Selective focus on several different metrics
+
+
+
+
+
+
+
+[Test](https://nbviewer.org/github/wsilva916/wsilva916.github.io/blob/main/cmi-internet-use.ipynb)
